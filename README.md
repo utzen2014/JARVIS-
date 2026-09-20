@@ -1,6 +1,6 @@
 # JARVIS-
 Yeni yapay zeka asistanınız.
-JARVIS için gerekli olanların hepsi klasörün içindeki "oku beni ve requirements txt" dosyalarında yazıyor.
+JARVIS için gerekli olanların hepsi klasörün içindeki "oku beni ve requirements txt" dosyalarında yazıyor.Tüm dosyaları indirmeniz gerekir
 ## 🔑 Gemini API Key Kurulumu
 
 JARVIS'in yapay zekâ özelliklerini kullanabilmek için bir **Google Gemini API Key** gerekir.
